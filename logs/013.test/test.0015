@@ -1,0 +1,14 @@
+Log started at Thu Oct 21 15:02:26 2010
+Computer: dh115111.bennington.edu
+Log filename: /Users/computerscience/DRQ/logs/013.test/test.0015
+
+/Applications/Autodesk/maya2010/Maya.app/Contents/bin/Render -n 0 -s 15 -e 15 -rd ~/Server/finalproject/images/ -proj ~/Server/finalproject -r sw -im FARM ~/Server/finalproject/finalproject.mb
+
+Starting "/Applications/Autodesk/maya2010/Maya.app/Contents/bin/maya"
+
+mental ray for Maya 2010 
+mental ray: version 3.7.53.5, Jun 17 2009, revision 88216
+Error: File not found.: 
+Error: Cannot load scene "~/Server/finalproject/finalproject.mb". Please check the scene name.
+// Maya exited with status 209
+/usr/local/drqueue/bin/chown_block faculty ~/Server/finalproject/images//FARM 15 15

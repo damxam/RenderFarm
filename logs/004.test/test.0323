@@ -1,0 +1,11 @@
+Log started at Sun Oct 10 20:17:15 2010
+Computer: Loft-3.local
+Log filename: /usr/local/drqueue/logs/004.test/test.0323
+
+Render: Command not found. -n 0 -s 323 -e 323 -rd /Users/faculty/Desktop/finalproject/images/ -proj /Users/faculty/Desktop/finalproject -r sw -im test /Users/faculty/Desktop/finalproject/finalproject.mb
+Render:: Too many arguments.
+Log started at Sun Oct 17 20:07:16 2010
+Computer: dh115129.bennington.edu
+Log filename: /Users/computerscience/logs/004.test/test.0323
+
+sh: /usr/local/drqueue/tmp/finalproject.mb.4CBB8FAB: No such file or directory

@@ -1,0 +1,18 @@
+Log started at Fri Oct 15 12:06:29 2010
+Computer: dh115165.bennington.edu
+Log filename: /Users/renderadmin/DRQ/logs/008.test/test.0350
+
+sh: /usr/local/drqueue/tmp//finalproject.mb.4CB87C00: No such file or directory
+Fri Oct 15 12:06:29 2010 (PID:23001) : |   Info | Computer: name:'dh115165.bennington.edu' id:'0' : Task: Jobid:'8' Jobname:'test' Frame:'350' Taskid:'0' Compid:'0' : -> MSG: Task finished
+Log started at Sun Oct 17 21:18:37 2010
+Computer: dh115112.bennington.edu
+Log filename: /Users/computerscience/DRQ/logs/008.test/test.0350
+
+/Applications/Autodesk/maya2010/Maya.app/Contents/bin/Render -n 0 -s 350 -e 350 -rd /Volumes/Data/manure_pile/finalproject/images/ -proj /Volumes/Data/manure_pile/finalproject -r sw -im FARM /Volumes/Data/manure_pile/finalproject/finalproject.mb
+
+Starting "/Applications/Autodesk/maya2010/Maya.app/Contents/bin/maya"
+
+Error: File not found.: 
+Error: Cannot load scene "/Volumes/Data/manure_pile/finalproject/finalproject.mb". Please check the scene name.
+// Maya exited with status 209
+/usr/local/drqueue/bin/chown_block faculty /Volumes/Data/manure_pile/finalproject/images//FARM 350 350

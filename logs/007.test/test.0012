@@ -1,0 +1,186 @@
+Log started at Sun Oct 17 20:59:33 2010
+Computer: dh115129.bennington.edu
+Log filename: /Users/computerscience/DRQ/logs/007.test/test.0012
+
+/Applications/Autodesk/maya2010/Maya.app/Contents/bin/Render -n 0 -s 12 -e 12 -rd /Volumes/Data/manure_pile/finalproject/images/ -proj /Volumes/Data/manure_pile/finalproject -r sw -im fuck /Volumes/Data/manure_pile/finalproject/finalproject.mb
+
+Starting "/Applications/Autodesk/maya2010/Maya.app/Contents/bin/maya"
+
+Error: File not found.: 
+Error: Cannot load scene "/Volumes/Data/manure_pile/finalproject/finalproject.mb". Please check the scene name.
+// Maya exited with status 209
+/usr/local/drqueue/bin/chown_block faculty /Volumes/Data/manure_pile/finalproject/images//fuck 12 12
+Log started at Thu Oct 21 16:54:47 2010
+Computer: dh115129.bennington.edu
+Log filename: /Volumes/Data/manure_pile/drqueue/logs/007.test/test.0012
+
+/Applications/Autodesk/maya2010/Maya.app/Contents/bin/Render -n 0 -s 12 -e 12 -rd /Volumes/Data/manure_pile/final_project2/images/ -proj /Volumes/Data/manure_pile/final_project2 -r sw -im fuck /Volumes/Data/manure_pile/final_project2/allcameraz_runeg.mb
+
+Starting "/Applications/Autodesk/maya2010/Maya.app/Contents/bin/maya"
+
+mental ray for Maya 2010 
+mental ray: version 3.7.53.5, Jun 17 2009, revision 88216
+File read in 0 seconds.
+Result: /Volumes/Data/manure_pile/final_project2/allcameraz_runeg.mb
+Total Elapsed Time Since Start Of Maya (hh:mm:ss): 00:00:06
+
+
+====================================
+
+
+Resource Usage At Start Of Rendering
+
+
+
+
+
+
+
+Automatic near/far clipping values: 0.1, 599.849.
+
+
+Starting Rendering /Volumes/Data/manure_pile/final_project2/images/camera2/fuck.iff.12.
+
+
+Constructing shading groups
+Rendering current frame.
+Frame triangle count: 16544
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Time For Tessellation (hh:mm:ss): 00:00:00
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:15
+
+
+Finished Rendering /Volumes/Data/manure_pile/final_project2/images/camera2/fuck.iff.12.
+
+
+------------------------------------------------------------
+
+
+
+Automatic near/far clipping values: 0.1, 597.503.
+
+
+Starting Rendering /Volumes/Data/manure_pile/final_project2/images/camera3/fuck.iff.12.
+
+
+Constructing shading groups
+Rendering current frame.
+Frame triangle count: 15662
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Time For Tessellation (hh:mm:ss): 00:00:00
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:07
+
+
+Finished Rendering /Volumes/Data/manure_pile/final_project2/images/camera3/fuck.iff.12.
+
+
+------------------------------------------------------------
+
+
+
+Automatic near/far clipping values: 0.1, 480.156.
+
+
+Starting Rendering /Volumes/Data/manure_pile/final_project2/images/camera4/fuck.iff.12.
+
+
+Constructing shading groups
+Rendering current frame.
+Frame triangle count: 15046
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Time For Tessellation (hh:mm:ss): 00:00:00
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:05
+
+
+Finished Rendering /Volumes/Data/manure_pile/final_project2/images/camera4/fuck.iff.12.
+
+
+------------------------------------------------------------
+
+
+
+Starting Rendering /Volumes/Data/manure_pile/final_project2/images/camera5/fuck.iff.12.
+
+
+Constructing shading groups
+Rendering current frame.
+Frame triangle count: 16340
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Time For Tessellation (hh:mm:ss): 00:00:00
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:10
+
+
+Finished Rendering /Volumes/Data/manure_pile/final_project2/images/camera5/fuck.iff.12.
+
+
+------------------------------------------------------------
+
+
+
+Automatic near/far clipping values: 0.1, 321.31.
+
+
+Starting Rendering /Volumes/Data/manure_pile/final_project2/images/camera6/fuck.iff.12.
+
+
+Constructing shading groups
+Rendering current frame.
+Result: /Volumes/Data/manure_pile/final_project2/allcameraz_runeg.ma
+Fatal Error. Attempting to save in /var/folders/ke/ke49adslGJO2cMkl2DMcRU+++TI/-Tmp-/computerscience.20101021.1655.ma
+

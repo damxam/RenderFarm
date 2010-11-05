@@ -1,0 +1,491 @@
+Log started at Tue Oct 12 13:39:21 2010
+Computer: Loft-3.local
+Log filename: /usr/local/drqueue/logs/006.test/test.0280
+
+/Applications/Autodesk/maya2010/Maya.app/Contents/bin/Render -n 0 -s 280 -e 280 -rd /Users/faculty/Desktop/finalproject/images/ -proj /Users/faculty/Desktop/finalproject -r sw -im test /Users/faculty/Desktop/finalproject/finalproject.mb
+
+Starting "/Applications/Autodesk/maya2010/Maya.app/Contents/bin/maya"
+
+Warning: line 1: Unrecognized node type for node 'vectorRenderGlobals'; preserving node information during this session.
+File read in 1 seconds.
+Warning: particleShape14: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: fire5Shape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: fire4Shape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: fire3Shape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: fire2Shape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: fireexport_fire1Shape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: particleFIREShape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: FIRE9991Shape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: FIRE9990Shape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: FIRE9990Shape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: FIRE999Shape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: FIRE999Shape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: FIRE999Shape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: FIRE999Shape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: FireyShape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: firstfirepotShape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: smokestartShape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: particleShape13: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: particleShape12: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: particleShape11: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: particleShape10: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: SUEfireShape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: fire1Shape: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: particleShape8: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: particleShape7: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: particleShape6: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: particleShape5: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: particleShape4: No cache file found for this object, runup may be needed. Check your workspace particles directory.
+Warning: You will need to rewind and play to see your particles. We recommend you then save the file with a startup cache.
+Result: /Users/faculty/Desktop/finalproject/finalproject.mb
+Total Elapsed Time Since Start Of Maya (hh:mm:ss): 00:00:13
+
+
+====================================
+
+
+Resource Usage At Start Of Rendering
+
+
+
+
+
+
+
+Automatic near/far clipping values: 0.1, 5.33844.
+
+
+Starting Rendering /Users/faculty/Desktop/finalproject/images/camera1/test.280.iff.
+
+
+Constructing shading groups
+Rendering current frame.
+   Glow: Filter Width = 21
+
+
+         Resolution = 0.638943
+
+
+   Halo: Filter Width = 51
+
+
+         Resolution = 0.260847
+
+
+Frame triangle count: 139153
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Glow intensity normalization factor = 0.105681.
+
+
+Halo intensity normalization factor = 0.773645.
+
+
+Time For Tessellation (hh:mm:ss): 00:00:03
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:23
+
+
+Finished Rendering /Users/faculty/Desktop/finalproject/images/camera1/test.280.iff.
+
+
+------------------------------------------------------------
+
+
+
+Automatic near/far clipping values: 0.1, 5.44647.
+
+
+Starting Rendering /Users/faculty/Desktop/finalproject/images/camera2/test.280.iff.
+
+
+Constructing shading groups
+Rendering current frame.
+   Glow: Filter Width = 21
+
+
+         Resolution = 0.638943
+
+
+   Halo: Filter Width = 51
+
+
+         Resolution = 0.260847
+
+
+Frame triangle count: 31116
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Glow intensity normalization factor = 0.882.
+
+
+Halo intensity normalization factor = 5.202.
+
+
+Time For Tessellation (hh:mm:ss): 00:00:00
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:13
+
+
+Finished Rendering /Users/faculty/Desktop/finalproject/images/camera2/test.280.iff.
+
+
+------------------------------------------------------------
+
+
+
+Automatic near/far clipping values: 0.1, 5.53087.
+
+
+Starting Rendering /Users/faculty/Desktop/finalproject/images/camera3/test.280.iff.
+
+
+Constructing shading groups
+Rendering current frame.
+   Glow: Filter Width = 21
+
+
+         Resolution = 0.638943
+
+
+   Halo: Filter Width = 51
+
+
+         Resolution = 0.260847
+
+
+Frame triangle count: 31116
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Glow intensity normalization factor = 0.882.
+
+
+Halo intensity normalization factor = 5.202.
+
+
+Time For Tessellation (hh:mm:ss): 00:00:00
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:03
+
+
+Finished Rendering /Users/faculty/Desktop/finalproject/images/camera3/test.280.iff.
+
+
+------------------------------------------------------------
+
+
+
+Automatic near/far clipping values: 0.1, 5.02579.
+
+
+Starting Rendering /Users/faculty/Desktop/finalproject/images/camera4/test.280.iff.
+
+
+Constructing shading groups
+Rendering current frame.
+   Glow: Filter Width = 21
+
+
+         Resolution = 0.638943
+
+
+   Halo: Filter Width = 51
+
+
+         Resolution = 0.260847
+
+
+Frame triangle count: 27136
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Glow intensity normalization factor = 0.882.
+
+
+Halo intensity normalization factor = 5.202.
+
+
+Time For Tessellation (hh:mm:ss): 00:00:00
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:03
+
+
+Finished Rendering /Users/faculty/Desktop/finalproject/images/camera4/test.280.iff.
+
+
+------------------------------------------------------------
+
+
+
+Automatic near/far clipping values: 0.1, 5.49011.
+
+
+Starting Rendering /Users/faculty/Desktop/finalproject/images/camera5/test.280.iff.
+
+
+Constructing shading groups
+Rendering current frame.
+   Glow: Filter Width = 21
+
+
+         Resolution = 0.638943
+
+
+   Halo: Filter Width = 51
+
+
+         Resolution = 0.260847
+
+
+Frame triangle count: 34710
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Glow intensity normalization factor = 0.882.
+
+
+Halo intensity normalization factor = 5.202.
+
+
+Time For Tessellation (hh:mm:ss): 00:00:00
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:03
+
+
+Finished Rendering /Users/faculty/Desktop/finalproject/images/camera5/test.280.iff.
+
+
+------------------------------------------------------------
+
+
+
+Automatic near/far clipping values: 0.1, 5.27228.
+
+
+Starting Rendering /Users/faculty/Desktop/finalproject/images/camera6/test.280.iff.
+
+
+Constructing shading groups
+Rendering current frame.
+   Glow: Filter Width = 21
+
+
+         Resolution = 0.638943
+
+
+   Halo: Filter Width = 51
+
+
+         Resolution = 0.260847
+
+
+Frame triangle count: 31154
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Glow intensity normalization factor = 0.882.
+
+
+Halo intensity normalization factor = 5.202.
+
+
+Time For Tessellation (hh:mm:ss): 00:00:00
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:02
+
+
+Finished Rendering /Users/faculty/Desktop/finalproject/images/camera6/test.280.iff.
+
+
+------------------------------------------------------------
+
+
+
+Automatic near/far clipping values: 0.1, 9.0205.
+
+
+Starting Rendering /Users/faculty/Desktop/finalproject/images/camera7/test.280.iff.
+
+
+Constructing shading groups
+Rendering current frame.
+   Glow: Filter Width = 21
+
+
+         Resolution = 0.638943
+
+
+   Halo: Filter Width = 51
+
+
+         Resolution = 0.260847
+
+
+Frame triangle count: 148987
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Glow intensity normalization factor = 0.190628.
+
+
+Halo intensity normalization factor = 1.33265.
+
+
+Time For Tessellation (hh:mm:ss): 00:00:01
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:05
+
+
+Finished Rendering /Users/faculty/Desktop/finalproject/images/camera7/test.280.iff.
+
+
+------------------------------------------------------------
+
+
+
+Automatic near/far clipping values: 0.1, 4.33398.
+
+
+Starting Rendering /Users/faculty/Desktop/finalproject/images/camera8/test.280.iff.
+
+
+Constructing shading groups
+Rendering current frame.
+   Glow: Filter Width = 21
+
+
+         Resolution = 0.638943
+
+
+   Halo: Filter Width = 51
+
+
+         Resolution = 0.260847
+
+
+Frame triangle count: 86446
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Glow intensity normalization factor = 0.882.
+
+
+Halo intensity normalization factor = 5.202.
+
+
+Time For Tessellation (hh:mm:ss): 00:00:01
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:06
+
+
+Finished Rendering /Users/faculty/Desktop/finalproject/images/camera8/test.280.iff.
+
+
+------------------------------------------------------------
+
+
+====================================
+
+
+Resource Usage At End Of Rendering
+
+
+Total Time For Render (hh:mm:ss): 00:02:41
+
+
+Total Elapsed Time For Maya (hh:mm:ss): 00:02:54
+
+
+Scene /Users/faculty/Desktop/finalproject/finalproject.mb completed.
+/usr/local/drqueue/bin/chown_block faculty /Users/faculty/Desktop/finalproject/images//test 280 280

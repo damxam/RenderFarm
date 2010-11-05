@@ -1,0 +1,11 @@
+Log started at Thu Oct 21 15:03:01 2010
+Computer: dh115111.bennington.edu
+Log filename: /Users/computerscience/DRQ/logs/013.test/test.0037
+
+/Applications/Autodesk/maya2010/Maya.app/Contents/bin/Render -n 0 -s 37 -e 37 -rd ~/Server/finalproject/images/ -proj ~/Server/finalproject -r sw -im FARM ~/Server/finalproject/finalproject.mb
+
+Starting "/Applications/Autodesk/maya2010/Maya.app/Contents/bin/maya"
+
+
+maya encountered a problem while trying to salvage current scene
+

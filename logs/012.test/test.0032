@@ -1,0 +1,8 @@
+Log started at Mon Oct 18 10:54:28 2010
+Computer: dh115115.bennington.edu
+Log filename: /Users/computerscience/DRQ/logs/012.test/test.0032
+
+/Applications/Autodesk/maya2010/Maya.app/Contents/bin/Render -n 0 -s 32 -e 32 -rd ~/Server/finalproject/images/ -proj ~/Server/finalproject -r sw -im FARM ~/Server/finalproject/finalproject.mb
+
+Starting "/Applications/Autodesk/maya2010/Maya.app/Contents/bin/maya"
+

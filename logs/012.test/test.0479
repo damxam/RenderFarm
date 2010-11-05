@@ -1,0 +1,7 @@
+Log started at Sun Oct 17 10:57:10 2010
+Computer: dh115129.bennington.edu
+Log filename: /Users/computerscience/DRQ/logs/012.test/test.0479
+
+sh: /usr/local/drqueue/tmp//finalproject.mb.4CBB0EC0: No such file or directory
+Sun Oct 17 10:57:10 2010 (PID:21429) : |   Info | Computer: name:'dh115129.bennington.edu' id:'2' : Task: Jobid:'12' Jobname:'test' Frame:'479' Taskid:'1' Compid:'2' : -> MSG: Task finished
+Sun Oct 17 11:17:24 2010 (PID:21186) : |   Info | Computer: name:'dh115129.bennington.edu' id:'2' : Task: Jobid:'12' Jobname:'test' Frame:'479' Taskid:'1' Compid:'2' : -> MSG: Cleaning...

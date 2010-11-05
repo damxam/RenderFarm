@@ -1,0 +1,8 @@
+Log started at Sun Oct 17 11:19:34 2010
+Computer: dh115165.bennington.edu
+Log filename: /Users/renderadmin/DRQ/logs/014.test/test.0368
+
+/Users/renderadmin/Maya/maya2010/Maya.app/Contents/bin/Render -n 0 -s 368 -e 368 -rd /Users/faculty/Desktop/finalproject/images/ -proj /Users/faculty/Desktop/finalproject -r sw -im farmerjoe /Users/faculty/Desktop/finalproject/finalproject.mb
+/Users/renderadmin/Maya/maya2010/Maya.app/Contents/bin/Render: Bad CPU type in executable.
+/usr/local/drqueue/bin/chown_block faculty /Users/faculty/Desktop/finalproject/images//farmerjoe 368 368
+Sun Oct 17 11:19:34 2010 (PID:30166) : |   Info | Computer: name:'dh115165.bennington.edu' id:'0' : Task: Jobid:'14' Jobname:'test' Frame:'368' Taskid:'0' Compid:'0' : -> MSG: Task finished

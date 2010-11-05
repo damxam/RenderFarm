@@ -1,0 +1,13 @@
+Log started at Mon Oct 18 10:52:13 2010
+Computer: dh115115.bennington.edu
+Log filename: /Users/computerscience/DRQ/logs/011.test/test.0086
+
+/Applications/Autodesk/maya2010/Maya.app/Contents/bin/Render -n 0 -s 86 -e 86 -rd /manure_pile/finalproject/images/ -proj /manure_pile/finalproject -r sw -im FARM /manure_pile/finalproject/finalproject.mb
+
+Starting "/Applications/Autodesk/maya2010/Maya.app/Contents/bin/maya"
+
+***** Error: line 1: Cannot find procedure "file".
+***** Error: line 1: Cannot find procedure "file".
+Fatal Error. Attempting to save in /var/folders/ke/ke49adslGJO2cMkl2DMcRU+++TI/-Tmp-/computerscience.20101018.1052.ma
+***** Error: line 1: Cannot find procedure "file".
+

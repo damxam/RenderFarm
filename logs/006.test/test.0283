@@ -1,0 +1,9 @@
+Log started at Tue Oct 12 13:39:21 2010
+Computer: Loft-3.local
+Log filename: /usr/local/drqueue/logs/006.test/test.0283
+
+/Applications/Autodesk/maya2010/Maya.app/Contents/bin/Render -n 0 -s 283 -e 283 -rd /Users/faculty/Desktop/finalproject/images/ -proj /Users/faculty/Desktop/finalproject -r sw -im test /Users/faculty/Desktop/finalproject/finalproject.mb
+
+Starting "/Applications/Autodesk/maya2010/Maya.app/Contents/bin/maya"
+Maya could not create the necessary startup directories.Please check for sufficient disk space and necessary write permissions.
+/usr/local/drqueue/bin/chown_block faculty /Users/faculty/Desktop/finalproject/images//test 283 283

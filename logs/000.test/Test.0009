@@ -1,0 +1,216 @@
+Log started at Thu Oct 21 16:19:44 2010
+Computer: dh115129.bennington.edu
+Log filename: /Volumes/Data/manure_pile/drqueue/logs/000.Test/Test.0009
+
+sh: /usr/local/drqueue/tmp//allcameraz_runeg.mb.4CC0A055: No such file or directory
+Log started at Thu Oct 21 18:36:30 2010
+Computer: dh115115.bennington.edu
+Log filename: /Volumes/Data/manure_pile/drqueue/logs/000.Test/Test.0009
+
+/Applications/Autodesk/maya2010/Maya.app/Contents/bin/Render -n 0 -s 9 -e 9 -rd /Volumes/Data/manure_pile/final_project/images/ -proj /Volumes/Data/manure_pile/final_project -r sw -im FUCK /Volumes/Data/manure_pile/final_project/allcameraz_runeg.mb
+
+Starting "/Applications/Autodesk/maya2010/Maya.app/Contents/bin/maya"
+
+mental ray for Maya 2010 
+mental ray: version 3.7.53.5, Jun 17 2009, revision 88216
+File read in 0 seconds.
+Result: /Volumes/Data/manure_pile/final_project/allcameraz_runeg.mb
+Total Elapsed Time Since Start Of Maya (hh:mm:ss): 00:00:05
+
+
+====================================
+
+
+Resource Usage At Start Of Rendering
+
+
+
+
+
+
+
+Automatic near/far clipping values: 0.1, 607.884.
+
+
+Starting Rendering /Volumes/Data/manure_pile/final_project/images/camera2/FUCK.iff.9.
+
+
+Constructing shading groups
+Rendering current frame.
+Frame triangle count: 16580
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Time For Tessellation (hh:mm:ss): 00:00:00
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:10
+
+
+Finished Rendering /Volumes/Data/manure_pile/final_project/images/camera2/FUCK.iff.9.
+
+
+------------------------------------------------------------
+
+
+
+Automatic near/far clipping values: 0.1, 597.503.
+
+
+Starting Rendering /Volumes/Data/manure_pile/final_project/images/camera3/FUCK.iff.9.
+
+
+Constructing shading groups
+Rendering current frame.
+Frame triangle count: 15662
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Time For Tessellation (hh:mm:ss): 00:00:00
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:05
+
+
+Finished Rendering /Volumes/Data/manure_pile/final_project/images/camera3/FUCK.iff.9.
+
+
+------------------------------------------------------------
+
+
+
+Automatic near/far clipping values: 0.1, 480.156.
+
+
+Starting Rendering /Volumes/Data/manure_pile/final_project/images/camera4/FUCK.iff.9.
+
+
+Constructing shading groups
+Rendering current frame.
+Frame triangle count: 15046
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Time For Tessellation (hh:mm:ss): 00:00:00
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:04
+
+
+Finished Rendering /Volumes/Data/manure_pile/final_project/images/camera4/FUCK.iff.9.
+
+
+------------------------------------------------------------
+
+
+
+Starting Rendering /Volumes/Data/manure_pile/final_project/images/camera5/FUCK.iff.9.
+
+
+Constructing shading groups
+Rendering current frame.
+Frame triangle count: 16340
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Time For Tessellation (hh:mm:ss): 00:00:00
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:07
+
+
+Finished Rendering /Volumes/Data/manure_pile/final_project/images/camera5/FUCK.iff.9.
+
+
+------------------------------------------------------------
+
+
+
+Automatic near/far clipping values: 0.1, 321.31.
+
+
+Starting Rendering /Volumes/Data/manure_pile/final_project/images/camera6/FUCK.iff.9.
+
+
+Constructing shading groups
+Rendering current frame.
+Frame triangle count: 14498
+====================================
+
+
+Resource Usage At End Of Frame
+
+
+Postprocessing rendering result.
+Time For Tessellation (hh:mm:ss): 00:00:00
+
+
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+
+
+Time For Post Process (hh:mm:ss): 00:00:00
+
+
+Time For Frame Render (hh:mm:ss): 00:00:06
+
+
+Finished Rendering /Volumes/Data/manure_pile/final_project/images/camera6/FUCK.iff.9.
+
+
+------------------------------------------------------------
+
+
+====================================
+
+
+Resource Usage At End Of Rendering
+
+
+Total Time For Render (hh:mm:ss): 00:00:34
+
+
+Total Elapsed Time For Maya (hh:mm:ss): 00:00:39
+
+
+Scene /Volumes/Data/manure_pile/final_project/allcameraz_runeg.mb completed.
+/usr/local/drqueue/bin/chown_block faculty /Volumes/Data/manure_pile/final_project/images//FUCK 9 9

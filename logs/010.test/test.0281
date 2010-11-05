@@ -1,0 +1,6 @@
+Sat Oct 16 19:47:20 2010 (PID:16730) : |   Info | Computer: name:'dh115129.bennington.edu' id:'1' : Task: Jobid:'10' Jobname:'test' Frame:'281' Taskid:'0' Compid:'1' : -> MSG: Task finished
+Log started at Mon Oct 18 10:51:05 2010
+Computer: dh115111.bennington.edu
+Log filename: /Users/computerscience/DRQ/logs/010.test/test.0281
+
+sh: /drqueue/tmp//finalproject.mb.4CBC5EAC: No such file or directory

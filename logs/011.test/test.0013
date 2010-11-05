@@ -1,0 +1,12 @@
+Log started at Mon Oct 18 10:51:43 2010
+Computer: dh115111.bennington.edu
+Log filename: /Users/computerscience/DRQ/logs/011.test/test.0013
+
+/Applications/Autodesk/maya2010/Maya.app/Contents/bin/Render -n 0 -s 13 -e 13 -rd /manure_pile/finalproject/images/ -proj /manure_pile/finalproject -r sw -im FARM /manure_pile/finalproject/finalproject.mb
+
+Starting "/Applications/Autodesk/maya2010/Maya.app/Contents/bin/maya"
+
+Error: File not found.: 
+Error: Cannot load scene "/manure_pile/finalproject/finalproject.mb". Please check the scene name.
+// Maya exited with status 209
+/usr/local/drqueue/bin/chown_block faculty /manure_pile/finalproject/images//FARM 13 13

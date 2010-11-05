@@ -1,0 +1,10 @@
+Log started at Sun Oct 17 11:19:27 2010
+Computer: dh115112.bennington.edu
+Log filename: /Users/computerscience/DRQ/logs/014.test/test.0289
+
+/Applications/Autodesk/maya2010/Maya.app/Contents/bin/Render -n 0 -s 289 -e 289 -rd /Users/faculty/Desktop/finalproject/images/ -proj /Users/faculty/Desktop/finalproject -r sw -im farmerjoe /Users/faculty/Desktop/finalproject/finalproject.mb
+
+Starting "/Applications/Autodesk/maya2010/Maya.app/Contents/bin/maya"
+Maya could not create the necessary startup directories.Please check for sufficient disk space and necessary write permissions.
+/usr/local/drqueue/bin/chown_block faculty /Users/faculty/Desktop/finalproject/images//farmerjoe 289 289
+Sun Oct 17 11:19:47 2010 (PID:15889) : |   Info | Computer: name:'dh115112.bennington.edu' id:'3' : Task: Jobid:'14' Jobname:'test' Frame:'289' Taskid:'1' Compid:'3' : -> MSG: Task finished

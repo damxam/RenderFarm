@@ -1,0 +1,12 @@
+Log started at Sat Oct 16 19:47:20 2010
+Computer: dh115112.bennington.edu
+Log filename: /Users/computerscience/DRQ/logs/010.test/test.0479
+
+sh: /usr/local/drqueue/tmp//finalproject.mb.4CBA3982: No such file or directory
+Sat Oct 16 19:47:20 2010 (PID:11137) : |   Info | Computer: name:'dh115112.bennington.edu' id:'3' : Task: Jobid:'10' Jobname:'test' Frame:'479' Taskid:'2' Compid:'3' : -> MSG: Task finished
+Sat Oct 16 19:49:43 2010 (PID:10769) : |   Info | Computer: name:'dh115112.bennington.edu' id:'3' : Task: Jobid:'10' Jobname:'test' Frame:'479' Taskid:'2' Compid:'3' : -> MSG: Cleaning...
+Log started at Mon Oct 18 10:51:06 2010
+Computer: dh115112.bennington.edu
+Log filename: /Users/computerscience/DRQ/logs/010.test/test.0479
+
+sh: /drqueue/tmp//finalproject.mb.4CBC5EAC: No such file or directory

@@ -1,0 +1,9 @@
+Sun Oct 10 15:58:06 2010 (PID:283) : |   Info | -> MSG: Starting master... (Revision: 2030)
+Sun Oct 10 15:58:06 2010 (PID:284) : |   Info | -> MSG: master_consistency_checks(): Starting... (PID: 284)
+Sun Oct 10 16:25:19 2010 (PID:422) : |   Info | -> MSG: Starting master... (Revision: 2030)
+Sun Oct 10 16:25:19 2010 (PID:422) : |  ERROR | -> MSG: get_socket(): call to bind() failed. Msg: Address already in use
+Sun Oct 10 16:25:19 2010 (PID:422) : |  ERROR | -> MSG: get_socket(): failed. (Address already in use)
+Sun Oct 10 16:33:10 2010 (PID:283) : |   Info | -> MSG: Saving...
+Sun Oct 10 16:33:10 2010 (PID:283) : |   Info | -> MSG: Storing DB into: '/usr/local/drqueue/db/drqueue.db'
+Sun Oct 10 16:33:10 2010 (PID:283) : |   Info | -> MSG: Database saved successfully.
+Sun Oct 10 16:33:10 2010 (PID:283) : |   Info | -> MSG: Cleaning jobs from memory...

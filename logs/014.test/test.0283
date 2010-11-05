@@ -1,0 +1,13 @@
+Log started at Sun Oct 17 11:19:27 2010
+Computer: dh115112.bennington.edu
+Log filename: /Users/computerscience/DRQ/logs/014.test/test.0283
+
+/Applications/Autodesk/maya2010/Maya.app/Contents/bin/Render -n 0 -s 283 -e 283 -rd /Users/faculty/Desktop/finalproject/images/ -proj /Users/faculty/Desktop/finalproject -r sw -im farmerjoe /Users/faculty/Desktop/finalproject/finalproject.mb
+
+Starting "/Applications/Autodesk/maya2010/Maya.app/Contents/bin/maya"
+
+Error: File not found.: 
+Error: Cannot load scene "/Users/faculty/Desktop/finalproject/finalproject.mb". Please check the scene name.
+// Maya exited with status 209
+/usr/local/drqueue/bin/chown_block faculty /Users/faculty/Desktop/finalproject/images//farmerjoe 283 283
+Sun Oct 17 11:19:50 2010 (PID:15887) : |   Info | Computer: name:'dh115112.bennington.edu' id:'3' : Task: Jobid:'14' Jobname:'test' Frame:'283' Taskid:'0' Compid:'3' : -> MSG: Task finished

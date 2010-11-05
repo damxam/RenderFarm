@@ -1,0 +1,11 @@
+Log started at Sun Oct 10 18:00:23 2010
+Computer: Loft-3.local
+Log filename: /usr/local/drqueue/logs/000.test/test.0479
+
+Render: Command not found. -n 0 -s 479 -e 479 -rd /Volumes/(  )/DUMP/Needubz/final_project2/images/ -proj /Volumes/(  )/DUMP/Needubz/final_project2 -r sw -im test /Volumes/(  )/DUMP/Needubz/final_project2/allcameraz_runeg.mb
+Render:: Too many arguments.
+Log started at Sun Oct 17 19:33:14 2010
+Computer: dh115129.bennington.edu
+Log filename: /Users/computerscience/logs/000.test/test.0479
+
+sh: /usr/local/drqueue/tmp//finalproject.mb.4CBB87B2: No such file or directory

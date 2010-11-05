@@ -1,0 +1,6 @@
+Log started at Sun Oct 10 20:44:47 2010
+Computer: Loft-3.local
+Log filename: /usr/local/drqueue/logs/005.test/test.0280
+
+Render: Command not found. -n 0 -s 280 -e 280 -rd /Users/faculty/Desktop/finalproject/images/ -proj /Users/faculty/Desktop/finalproject -r sw -im test /Users/faculty/Desktop/finalproject/finalproject.mb
+Render:: Too many arguments.
