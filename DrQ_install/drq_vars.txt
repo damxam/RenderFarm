@@ -1,0 +1,10 @@
+
+mount -t afp afp://faculty:g4panther@12.16.115.90/manure_pile /Volumes/Data/manure_pile
+export DRQUEUE_ROOT=/usr/local/drqueue
+export DRQUEUE_MASTER=12.16.115.90
+export DRQUEUE_PATH=$PATH:$DRQUEUE_ROOT/bin
+export MAYA_LOCATION=/Applications/Autodesk/maya2010/Maya.app/Contents
+export PATH=$PATH:$DRQUEUE_ROOT/bin
+export PATH=$PATH:$MAYA_LOCATION/bin
+export DRQUEUE_POOL=maya
+slave.Darwin.x86_64 -o
